@@ -42,12 +42,6 @@ CIPHER TEXT: AZ IN OR RC MI GB IO VF CU MR LV NO QY <br>
 
 |Nama | Abdul Aziz Anaoval|
 |---|-----|
-
 |Kelas | TI.20.A.1|
-|----|----|
-
 |Nim | 312010049|
-|----|----|
-
 |Matkul | Kriptografi
-|----|----|
