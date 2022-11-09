@@ -40,8 +40,8 @@ CIPHER TEXT: AZ IN OR RC MI GB IO VF CU MR LV NO QY <br>
  3. EXIT <i>input</i> 
 
 
-|Nama | Abdul Aziz Anaoval|
+|Nama | Sardin|
 |---|-----|
 |Kelas | TI.20.A.1|
-|Nim | 312010049|
+|Nim | 312010135|
 |Matkul | Kriptografi
